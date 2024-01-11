@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "66296289375",
+    "project_id": "pemrogramaniot-5ee42",
+    "storage_bucket": "pemrogramaniot-5ee42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66296289375:android:e9ee743937c6fd2d7ae3ea",
+        "android_client_info": {
+          "package_name": "com.example.iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8_aknOdwO9NxCMZJmClPSKvgJ2q2kq5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66296289375:android:b49f1bc02c5404817ae3ea",
+        "android_client_info": {
+          "package_name": "com.example.pemrogramaniot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8_aknOdwO9NxCMZJmClPSKvgJ2q2kq5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
